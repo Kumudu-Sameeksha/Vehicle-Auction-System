@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle Auction API
 
 This RESTful API powers a vehicle auction platform. It allows users to create auctions by listing cars with details like make, model, year, and a minimum price. Buyers can browse and place bids. The system also manages the auction lifecycle, including a robust process for handling non-paying bidders with a second-chance offer system and user penalties to ensure fairness.
@@ -13,3 +14,6 @@ This RESTful API powers a vehicle auction platform. It allows users to create au
 ## About the Project
 
 This document provides a high-level overview of the API's functionality. For detailed specifications, including request/response examples, please refer to the API documentation.
+=======
+# Vehicle-Auction-System
+>>>>>>> d883d9896b96c3843aa978d0699cf2cc7c6f6167
